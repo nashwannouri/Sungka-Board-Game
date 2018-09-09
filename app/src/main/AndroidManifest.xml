@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.k1465128.sungka" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BoardAiActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name=".BoardActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name=".PlayMenuActivity"
+            android:label="@string/app_name">
+        </activity>
+       <activity android:name=".NameEntryAiGameActivity"
+           android:label="@string/app_name"/>
+
+        <activity android:name=".HighScoresActivity"
+            android:label="HighScores"></activity>
+
+        <activity android:name=".PlayerStatsActivity"
+            android:label="PlayerStats"></activity>
+        <activity android:name=".NameEntryMultiplayerActivity"
+            android:label="@string/app_name"></activity>
+
+    </application>
+
+</manifest>

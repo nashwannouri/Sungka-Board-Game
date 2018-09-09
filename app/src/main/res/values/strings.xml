@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Sungka</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pl1_name">Player 1</string>
+    <string name="pl2_name">Player 2</string>
+
+    <string name="p1StoreTotal">0</string>
+    <string name="p2StoreTotal">0</string>
+
+    <string name="p1Tray1">7</string>
+    <string name="p1Tray2">7</string>
+    <string name="p1Tray3">7</string>
+    <string name="p1Tray4">7</string>
+    <string name="p1Tray5">7</string>
+    <string name="p1Tray6">7</string>
+    <string name="p1Tray7">7</string>
+
+    <string name="p2Tray1">7</string>
+    <string name="p2Tray2">7</string>
+    <string name="p2Tray3">7</string>
+    <string name="p2Tray4">7</string>
+    <string name="p2Tray5">7</string>
+    <string name="p2Tray6">7</string>
+    <string name="p2Tray7">7</string>
+
+    <string name="playButton">Play</string>
+    <string name="highScoresButton">High Scores</string>
+    <string name="exitButton">Exit</string>
+    <string name="plVsplButton">Player Vs Player</string>
+    <string name="plVsaiButton">Player Vs AI</string>
+    <string name="plOnlineButton">Play Online</string>
+
+    <string name="firstPlace">1:</string>
+    <string name="secondPlace">2:</string>
+    <string name="thirdPlace">3:</string>
+
+    <string name="firstPlaceName">Joe</string>
+    <string name="secondPlaceName">Mary</string>
+    <string name="thirdPlaceName">Steve</string>
+
+    <string name="firstPlaceScore">36</string>
+    <string name="secondPlaceScore">30</string>
+    <string name="thirdPlaceScore">29</string>
+
+    <string name="playerOneText">Enter Player 1\'s name:</string>
+    <string name="playerTwoText">Enter Player 2\'s name:</string>
+    <string name="submitButton">Submit</string>
+
+    <string name="highScoresTitle">High Scores</string>
+    <string name="statsTitle">Statistics</string>
+
+    <string name="playerNameText"> Enter your name</string>
+    <string name="nameTitle">Name, Wins and Games Played</string>
+</resources>
